@@ -127,13 +127,15 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
+# Environments - modified because I use to work with ev instead of env or venv.
 .env
+.ev
 .venv
+ev/
 env/
 venv/
-ENV/
-env.bak/
+EV/
+ev.bak/
 venv.bak/
 
 # Spyder project settings
