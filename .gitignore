@@ -96,7 +96,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments - modified because I use to work with ev instead of env or venv.
+# Variables de entorno! Nunca subir a git!
 .env
 .ev
 .venv
